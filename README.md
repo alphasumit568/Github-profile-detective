@@ -1,4 +1,4 @@
-# Dev-Detective-Project
+# Sumit-Detective-Project
 Page that provides GitHub profile details for the user-name provided. Build using JS, CSS, and HTML. 
 
 Features:
